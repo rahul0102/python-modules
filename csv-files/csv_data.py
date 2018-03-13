@@ -1,18 +1,19 @@
 import csv
+import os
 # import shutil
 # import io
 # import sys
 # import json
 # from tempfile import NamedTemporaryFile
 
-
-def get_length(filepath):
+file_path = os.path.join(os.path.dirname(__file__), 'test.csv')
+def get_length(filepath = file_path):
     with open(filepath) as csvfile:
         reader = csv.reader(csvfile)
         reade_list = list(reader)
     return len(reade_list)
 
-def read_data(filepath, id = None, email = None):
+def read_data(filepath = file_path, id = None, email = None):
     # open file in read mode
     # unknown_id = None
     # unknown_email = None
