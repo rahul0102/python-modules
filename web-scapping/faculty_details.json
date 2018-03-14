@@ -1,0 +1,111 @@
+[
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/KRA.JPG",
+    "name": "Dr. Kiran R. Amin",
+    "designation": "Professor & Principal",
+    "extension-no": "2301",
+    "email": "kiran.amin[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Data MiningArtificial intelligenc"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/PMS.jpg",
+    "name": "Prof. Paresh M. Solanki",
+    "designation": "Assistant Professor / Incharge HOD",
+    "extension-no": "3241",
+    "email": "paresh.solanki[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Data Mining, Wireless Sensor Network, Network Security"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/HVS.JPG",
+    "name": "Dr. Hemal Shah",
+    "designation": "Professor",
+    "extension-no": "3213",
+    "email": "hemal.shah[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Predominantly my research interest has remained on Ad-hoc Networks, Routing Challenges, Mobility Modeling in Extreme Networks and issues on DTN. Along the above I have focused on Network Mathematics,especially for theories of optimization & graph theoriesAlso, interested in exploring model based software testing, software engineering and modern operating system design issues specially Linux"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/HDR.jpeg",
+    "name": "Prof. Hitesh D. Rajput",
+    "designation": "Assistant Professor",
+    "extension-no": "3246",
+    "email": "hitesh.rajput[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Digital Image ProcessingData Structures & AlgorithmsSoftware EngineeringComputation Intelligenc"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/psp1.jpg",
+    "name": "Prof. Pravesh Patel",
+    "designation": "Assistant Professor",
+    "extension-no": "3213",
+    "email": "pravesh.patel[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Delay Tolerant NetworkOperating System ,MicroprocessorDistributed System ,Web/Software  Developmen"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/Dipak%202.jpg",
+    "name": "Prof. Dipak C. Patel",
+    "designation": "Assistant Professor",
+    "extension-no": "3242",
+    "email": "dipak.c.patel[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Analysis of Algorithm,Web Mininig,Information Security, Data Structur"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/RJP.JPG",
+    "name": "Prof. R. J. Patel",
+    "designation": "Assistant Professor",
+    "extension-no": "3246",
+    "email": "rajendra.patel[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Data and Web Mining,"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/MNP.JPG",
+    "name": "Prof. Menka Patel",
+    "designation": "Assistant Professor",
+    "extension-no": "3247",
+    "email": "menka.patel[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Data Security, Network Security"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/SGP_PHOTO.jpg",
+    "name": "Prof. Satish G. Prajapati",
+    "designation": "Assistant Professor",
+    "extension-no": "3214",
+    "email": "satish.prajapati@ganpatuniversity.ac.in",
+    "research-interests": "Software EngineeringSystem Analysis & DesignObject Oriented ProgrammingData MiningC and C++"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG_20140811_164151.jpg",
+    "name": "Prof. Chirag C. Gami",
+    "designation": "Assistant Professor",
+    "extension-no": "3214",
+    "email": "ccg01[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Operating System, Wireless Sensor Network"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-20170726-WA0008_0.jpg",
+    "name": "Prof. Beena M. Patel",
+    "designation": "Assistant Professor",
+    "extension-no": "3248",
+    "email": "beena.patel[AT]ganpatuniversity[dot]ac[dot]in",
+    "research-interests": "Computer Network, Image Processing, Microprocessor and Controller"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-20170716-WA0005%20%282%29_0.jpg",
+    "name": "Prof. Sweety V. Patel",
+    "designation": "Assistant Professor",
+    "extension-no": "3235",
+    "email": "svp04@ganpatuniversity.ac.in",
+    "research-interests": "Delay Tolerant NetworkDatabase Management SystemData Structure and Algorithm"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/IMG-20170212-WA0000.jpg",
+    "name": "Prof. Payal D. Patel",
+    "designation": "Assistant Professsor",
+    "extension-no": "3248",
+    "email": "pdp04@ganpatuniversity.ac.in",
+    "research-interests": "Data Structures Algorithms"
+  },
+  {
+    "img-src": "http://www.uvpce.ac.in/sites/uvpce.gnu.ac.in/files/styles/profile_image1/public/facultyprofile/foto123.jpg",
+    "name": "Prof. Zalak Prajapati",
+    "designation": "Assistant Professor"
+  }
+]
